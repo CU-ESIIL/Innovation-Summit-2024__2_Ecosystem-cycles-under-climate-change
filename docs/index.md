@@ -1,6 +1,6 @@
 ![](./assets/esiil_content/Summit_Header.png)
 
-# Group 2 -- Ecosystem cycles (e.g., C, N) under climate change 
+# Group 2 -- Species Interactions Under Climate Changes (molecular tools)
 
 !!! Success "Provocotive question"
 
