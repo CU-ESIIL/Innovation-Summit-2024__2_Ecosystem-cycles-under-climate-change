@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/800189218.svg)](https://zenodo.org/doi/10.5281/zenodo.11189034)
 
-# [Your Team Name]
+# [Marie-Josee Fortin]
 
-Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
+Welcome to the **[Group 2]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
 #practice edit
 
