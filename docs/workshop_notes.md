@@ -13,4 +13,4 @@ We ultimately landed on a bunch of different possibilites. Probably we want to u
 
 
 ### INSDC host organism dataset accessible through GBIF
-[maybe useful virus data records] https://www.gbif.org/dataset/393b8c26-e4e0-4dd0-a218-93fc074ebf4e#description.
+maybe useful virus data records: https://www.gbif.org/dataset/393b8c26-e4e0-4dd0-a218-93fc074ebf4e#description.
