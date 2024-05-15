@@ -40,7 +40,11 @@ Day 2 report-back questions are about the team *process*. We are interested in y
 - **Research Question:** How species iteractions change given extream events while accounting for global change (change in phenology, range shifts, ext)
 - **One interesting graphic/finding:**
 - **What are you thinking about doing next with your team? Long-term, short-term?**
+  - Abstract? Workshop Proposal? Potentially starting with GBIF, Identify LTER/NEON dataset to use.
 - **What’s missing: what resources, people, data sets, etc. does your team need?**
+   - OneHealth approach
+   - Disease modeling expertise
+   - Expertise in working with detection probability problems.
       
 ### Reminder
 There is the opportunity for groups to continue working on their projects as an ESIIL Working Group. If you love your team and want to continue working together, considering submitting a Working Group Application this fall. See the ESIIL website for more information: <https://esiil.org/working-groups>.
