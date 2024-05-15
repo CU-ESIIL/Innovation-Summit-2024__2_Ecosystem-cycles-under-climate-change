@@ -21,3 +21,10 @@ example dataset: https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lt
 
 ### Maybe we could use the PHI-base data to identify pathogens that could be leveraged via GBIF?
 http://www.phi-base.org/searchFacet.htm?queryTerm=
+
+### Keywords
+- Spillover
+- Biogeography
+- Species "turnover" & "rewiring"
+- Prevalence
+- Extreme Events (disturbance, weather, human-mediated, ...)
