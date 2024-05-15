@@ -18,3 +18,6 @@ maybe useful virus data records: https://www.gbif.org/dataset/393b8c26-e4e0-4dd0
 
 ### Also we could look at LTER datasets available through EDI
 example dataset: https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-sev.332.2
+
+### Maybe we could use the PHI-base data to identify pathogens that could be leveraged via GBIF?
+http://www.phi-base.org/searchFacet.htm?queryTerm=
