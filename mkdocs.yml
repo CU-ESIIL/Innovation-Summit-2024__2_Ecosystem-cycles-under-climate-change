@@ -13,6 +13,7 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
+  - Notes: workshop_notes.md
   - Pre-Summit Virtual Trainings: 
        - Overview: virtual-meetings.md
        - Head in the clouds:
