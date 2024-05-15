@@ -28,3 +28,5 @@ http://www.phi-base.org/searchFacet.htm?queryTerm=
 - Species "turnover" & "rewiring"
 - Prevalence
 - Extreme Events (disturbance, weather, human-mediated, ...)
+
+![](./assets/whiteboard/20240515_164820.jpg)
