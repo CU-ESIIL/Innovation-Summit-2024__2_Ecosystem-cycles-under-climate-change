@@ -10,3 +10,7 @@ We ultimately landed on a bunch of different possibilites. Probably we want to u
 ![](./assets/whiteboard/20240515_113431.jpg)
 
 ![](./assets/whiteboard/20240515_113606.jpg)
+
+
+### INSDC host organism dataset accessible through GBIF
+[]https://www.gbif.org/dataset/393b8c26-e4e0-4dd0-a218-93fc074ebf4e#description
