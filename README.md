@@ -14,12 +14,12 @@ Welcome to the **[Group 2]** repository, an integral part of ESIIL and Earth Lab
 
 
 ## Group Members
-- Marie-Josee Fortin: Brief description
-- Aaron Krivchenia: Brief description
-- Lizzie Lombardi: Brief description
-- Rob Ramos: Brief description
-- Jeremy Wojdak
-- [Link to more detailed bios or profiles if available and desired.]
+- Marie-Josee Fortin: fortinmj@gmail.com
+- Aaron Krivchenia: aaron.krivchenia@gmail.com
+- Lizzie Lombardi: lizzie.lombardi@gmail.com
+- Rob Ramos: rob.james.ramos@gmail.com
+- Jeremy Wojdak: jeremy.wojdak@gmail.com
+- Israel Borokini: isreal.borokini.@montana.edu
 
 ## Code Repository Structure
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
