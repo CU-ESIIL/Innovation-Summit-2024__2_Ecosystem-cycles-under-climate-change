@@ -8,3 +8,6 @@
 
 
 ![](./assets/Group2_figure.png)
+
+
+![](./assets/group2_gbif_diversity.png)
