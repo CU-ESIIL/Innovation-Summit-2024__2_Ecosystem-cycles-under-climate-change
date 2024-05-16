@@ -7,3 +7,4 @@
     How species iteractions change given extream events while accounting for global change (change in phenology, range shifts, ext)
 
 
+![](./assets/Group2_figure.png)
