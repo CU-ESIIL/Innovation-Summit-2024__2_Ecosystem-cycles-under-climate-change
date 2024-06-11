@@ -13,7 +13,8 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
-  - Notes: workshop_notes.md
+  - Meeting notes:
+    - meetings/index.md  
   - Pre-Summit Virtual Trainings: 
        - Overview: virtual-meetings.md
        - Head in the clouds:
@@ -129,6 +130,13 @@ markdown_extensions:
         - name: collapsible
           class: collapsible
           format: !!python/name:pymdownx.superfences.fence_div_format
+  - pymdownx.snippets:
+      base_path:
+        - docs
+        - README.md
+      check_paths: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -138,9 +146,14 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-    - search
-    - mkdocstrings
-    - git-revision-date
-    - mkdocs-jupyter:
-          include_source: True
-          ignore_h1_titles: False
+  - search
+  - mkdocstrings
+  - git-revision-date
+  - mkdocs-jupyter:
+      include_source: True
+      ignore_h1_titles: False
+  - blog:
+      blog_dir: meetings
+      post_dir: meetings/notes
+      archive: false
+      categories: false

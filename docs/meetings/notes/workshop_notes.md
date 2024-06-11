@@ -1,3 +1,7 @@
+---
+date: 2024-05-14
+---
+
 # Summit Notes
 
 ## Day 1: brainstorming

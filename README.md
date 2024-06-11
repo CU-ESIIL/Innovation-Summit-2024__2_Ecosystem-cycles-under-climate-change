@@ -1,17 +1,13 @@
-[![DOI](https://zenodo.org/badge/800189218.svg)](https://zenodo.org/doi/10.5281/zenodo.11189034)
+![](./assets/esiil_content/Summit_Header.png)
+# Group 2 --  "Changes in species interactions under global change"
 
-#  Species Interactions Under Climate Changes (molecular tools)
+!!! Success "Provocotive question"
 
-Welcome to the **[Group 2]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
+    How species iteractions change given extream events while accounting for global change (change in phenology, range shifts, ext)
 
-#practice edit
+![](./assets/Group2_figure.png)
 
-## Our Project
-[Provide a brief overview of your project here.
-
-## Documentation
-- Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
-
+![](./assets/group2_gbif_diversity.png)
 
 ## Group Members
 - Marie-Josee Fortin: fortinmj@gmail.com
@@ -38,17 +34,3 @@ Welcome to the **[Group 2]** repository, an integral part of ESIIL and Earth Lab
 
 ## Getting Help
 - If you encounter any issues or have questions, please refer to the [ESIIL Support Page](https://esiil-support-page-url/) or contact the repository maintainers directly.
-
-## Customize Your Repository
-- **Edit This Readme**: Update with information specific to your project.
-- **Update Group Member Bios**: Add detailed information about each group member's expertise and role.
-- **Organize Your Code**: Use logical structure and clear naming conventions.
-- **Document Your Data**: Include a data directory with README files for datasets.
-- **Outline Your Methods**: Create a METHODS.md file for methodologies and tools.
-- **Set Up Project Management**: Use 'Issues' and 'Projects' for task tracking.
-- **Add a License**: Include an appropriate open-source license.
-- **Create Contribution Guidelines**: Establish a CONTRIBUTING.md file.
-- **Review and Merge Workflow**: Document your process for reviewing and merging changes.
-- **Establish Communication Channels**: Set up channels like Slack or Discord for discussions.
-
-Remember, the goal is to make your repository clear, accessible, and useful for all current and future researchers. Happy researching!
