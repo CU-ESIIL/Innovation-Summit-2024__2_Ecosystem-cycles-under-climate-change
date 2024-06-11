@@ -3,13 +3,13 @@
 ## Day 1: brainstorming
 We ultimately landed on a bunch of different possibilites. Probably we want to use genomic data or metagenomic data to look at interactions over time and space, with particular interest in how (a)synchronous interactions are/may be in the future 
 
-![](./assets/whiteboard/20240514_172253.jpg)
+![](https://cu-esiil.github.io/Innovation-Summit-2024__2_Ecosystem-cycles-under-climate-change/assets/whiteboard/20240514_172253.jpg)
 
 ## Day 2: getting into it
 
-![](./assets/whiteboard/20240515_113431.jpg)
+![](https://cu-esiil.github.io/Innovation-Summit-2024__2_Ecosystem-cycles-under-climate-change/assets/whiteboard/20240515_113431.jpg)
 
-![](./assets/whiteboard/20240515_113606.jpg)
+![](https://cu-esiil.github.io/Innovation-Summit-2024__2_Ecosystem-cycles-under-climate-change/assets/whiteboard/20240515_113606.jpg)
 
 
 ### INSDC host organism dataset accessible through GBIF
@@ -29,4 +29,4 @@ http://www.phi-base.org/searchFacet.htm?queryTerm=
 - Prevalence
 - Extreme Events (disturbance, weather, human-mediated, ...)
 
-![](./assets/whiteboard/20240515_164820.jpg)
+![](https://cu-esiil.github.io/Innovation-Summit-2024__2_Ecosystem-cycles-under-climate-change/assets/whiteboard/20240515_164820.jpg)
