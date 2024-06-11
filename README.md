@@ -3,7 +3,7 @@
 
 !!! Success "Provocotive question"
 
-    How species iteractions change given extream events while accounting for global change (change in phenology, range shifts, ext)
+    How species iteractions change given extreme events while accounting for global change (change in phenology, range shifts, ext)
 
 ![](./assets/Group2_figure.png)
 
