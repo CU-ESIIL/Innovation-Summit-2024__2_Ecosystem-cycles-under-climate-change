@@ -15,7 +15,7 @@
 - Lizzie Lombardi: lizzie.lombardi@gmail.com
 - Rob Ramos: rob.james.ramos@gmail.com
 - Jeremy Wojdak: jeremy.wojdak@gmail.com
-- Israel Borokini: isreal.borokini.@montana.edu
+- Israel Borokini: isreal.borokini@montana.edu
 
 ## Code Repository Structure
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
